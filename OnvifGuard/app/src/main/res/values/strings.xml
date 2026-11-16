@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">OnvifGuard</string>
+    <string name="channel_motion_name">Critical Motion Alerts</string>
+    <string name="channel_motion_desc">Instant alerts when motion or person is detected by ONVIF camera</string>
+    <string name="channel_service_name">Background Monitor</string>
+    <string name="channel_service_desc">Keeps connection alive to ONVIF camera for instant alerts</string>
+</resources>

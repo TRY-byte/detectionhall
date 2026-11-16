@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="primary">#E53935</color>
+    <color name="primary_dark">#B71C1C</color>
+    <color name="surface_dark">#121212</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">OnvifGuard</string>
+    <string name="channel_motion_desc">Instant alerts when motion or person is detected by ONVIF camera</string>
+    <string name="channel_motion_name">Critical Motion Alerts</string>
+    <string name="channel_service_desc">Keeps connection alive to ONVIF camera for instant alerts</string>
+    <string name="channel_service_name">Background Monitor</string>
+    <style name="Theme.OnvifGuard" parent="android:Theme.Material.NoActionBar">
+        <item name="android:statusBarColor">@color/surface_dark</item>
+        <item name="android:navigationBarColor">@color/surface_dark</item>
+    </style>
+</resources>

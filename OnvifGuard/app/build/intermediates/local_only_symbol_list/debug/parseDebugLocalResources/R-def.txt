@@ -1,0 +1,18 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color primary
+color primary_dark
+color surface_dark
+color white
+drawable ic_launcher
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string channel_motion_desc
+string channel_motion_name
+string channel_service_desc
+string channel_service_name
+style Theme.OnvifGuard
